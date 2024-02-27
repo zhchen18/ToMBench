@@ -1,5 +1,5 @@
 # ToMBench
-We are still preparing to open source tombench. 🤯
+We are still preparing to open source ToMBench. 🤯
 
 Star this repo to receive the latest notifications. 🙌
 
