@@ -16,18 +16,18 @@ Before using ToMBench, please note:
 
 ## ToMBench Framework
 <div style="text-align: center;">
-  <img src="figures/introduction.png" alt="introduction" >
+  <img src="figures/introduction.png" alt="introduction" height: auto;>
 </div>
 
 
 ## Topics in ToMBench
 <div style="text-align: center;">
-    <img src="figures/pie.png" alt="Topics in ToMBench" width="800">
+    <img src="figures/pie.png" alt="Topics in ToMBench" width="800" height: auto;>
 </div>
 
 ## Statistics of ToMBench
 <div style="text-align: center;">
-    <img src="figures/statistics.png" alt="Image 2" width="550">
+    <img src="figures/statistics.png" alt="Image 2" width="550" height: auto;>
 </div>
 
 
@@ -96,17 +96,17 @@ This category involves understanding that communication can convey meanings beyo
 
 ## Mapping between 8 tasks and 31 ATOMS abilitie
 <div style="text-align: center;">
-  <img src="figures/atoms.png" alt="atoms" >
+  <img src="figures/atoms.png" alt="atoms"  height: auto;>
 </div>
 
 ## Task-oriented ToM Performance of LLMs
 <div style="text-align: center;">
-  <img src="figures/task_results.png" alt="task" >
+  <img src="figures/task_results.png" alt="task"  height: auto;>
 </div>
 
 ## Ability-oriented ToM Performance of LLMs
 <div style="text-align: center;">
-  <img src="figures/ability_results.png" alt="task" >
+  <img src="figures/ability_results.png" alt="task"  height: auto;>
 </div>
 
 ### Enjoy using ToMBench and advancing your research in Theory of Mind! 🚀
