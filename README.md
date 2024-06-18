@@ -2,9 +2,9 @@
 
 Hola! Welcome to the official repository for **ToMBench**! 🎉
 
-<div style="text-align: center;">
+<p align="center">
   <img src="figures/logo.png" alt="logo" width="500">
-</div>
+</p>
 
 ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM) benchmark for LLMs, containing 2,860 testing samples involving diverse real-world social scenarios.
 
@@ -12,19 +12,19 @@ ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM)
 Before using ToMBench, please note:
 **Use ToMBench for evaluation purposes only. Avoid using ToMBench data for training in any circumstance to prevent data contamination, which can lead to inflated performance.**
 
-<div style="text-align: center;">
+<p align="center">
   <img src="figures/introduction.png" alt="introduction" >
   <p>ToMBench Framework</p>
-</div>
+</p>
 
 
 <div style="display: flex; justify-content: center;">
   <div style="margin: 10px;">
-    <img src="figures/pie.png" alt="Topics in ToMBench" width="400">
+    <img src="figures/pie.png" alt="Topics in ToMBench" width="350">
     <p style="text-align: center;">Topics in ToMBench</p>
   </div>
   <div style="margin: 10px;">
-    <img src="figures/statistics.png" alt="Image 2" width="305">
+    <img src="figures/statistics.png" alt="Image 2" width="267">
     <p style="text-align: center;">Statistics of ToMBench</p>
   </div>
 </div>
@@ -92,20 +92,20 @@ This category involves understanding that communication can convey meanings beyo
 5. **Humor:** Understanding lies told as jokes.
 6. **Faux Pas:** Recognizing social faux pas.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="figures/atoms.png" alt="atoms" >
   <p>The mapping between 8 tasks and 31 ATOMS abilities</p>
-</div>
+</p>
 
 ## Task-oriented ToM Performance of LLMs
-<div style="text-align: center;">
+<p align="center">
   <img src="figures/task_results.png" alt="task" >
-</div>
+</p>
 
 ## Ability-oriented ToM Performance of LLMs
-<div style="text-align: center;">
+<p align="center">
   <img src="figures/ability_results.png" alt="task" >
-</div>
+</p>
 
 Enjoy using ToMBench and advancing your research in Theory of Mind! 🚀
 
