@@ -3,7 +3,7 @@
 ### Hola! Welcome to the official repository for **ToMBench**! 🎉
 
 <div style="text-align: center;">
-  <img src="figures/logo.png" alt="logo" width="500">
+  <img src="figures/logo.png" alt="logo" width="500" height: auto;>
 </div>
 
 ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM) benchmark for LLMs, containing 2,860 testing samples involving diverse real-world social scenarios.
