@@ -7,25 +7,26 @@ Hola! Welcome to the official repository for **ToMBench**! 🎉
 </div>
 
 ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM) benchmark for LLMs, containing 2,860 testing samples involving diverse real-world social scenarios.
+The inventory of ToMBench can be found in `ToMBench_release_v1_0618.xlsx`
 
 ## Important Notice ⚠️
 Before using ToMBench, please note:
 **Use ToMBench for evaluation purposes only. Avoid using ToMBench data for training in any circumstance to prevent data contamination, which can lead to inflated performance.**
 
+## ToMBench Framework
 <div style="text-align: center;">
   <img src="figures/introduction.png" alt="introduction" >
-  <p>ToMBench Framework</p>
 </div>
 
+
+## Topics in ToMBench
 <div style="text-align: center;">
     <img src="figures/pie.png" alt="Topics in ToMBench" width="800">
-    <p style="text-align: center;">Topics in ToMBench</p>
 </div>
 
-
+## Statistics of ToMBench
 <div style="text-align: center;">
     <img src="figures/statistics.png" alt="Image 2" width="550">
-    <p style="text-align: center;">Statistics of ToMBench</p>
 </div>
 
 
@@ -92,9 +93,9 @@ This category involves understanding that communication can convey meanings beyo
 5. **Humor:** Understanding lies told as jokes.
 6. **Faux Pas:** Recognizing social faux pas.
 
+## Mapping between 8 tasks and 31 ATOMS abilitie
 <div style="text-align: center;">
   <img src="figures/atoms.png" alt="atoms" >
-  <p>The mapping between 8 tasks and 31 ATOMS abilities</p>
 </div>
 
 ## Task-oriented ToM Performance of LLMs
@@ -107,7 +108,7 @@ This category involves understanding that communication can convey meanings beyo
   <img src="figures/ability_results.png" alt="task" >
 </div>
 
-Enjoy using ToMBench and advancing your research in Theory of Mind! 🚀
+### Enjoy using ToMBench and advancing your research in Theory of Mind! 🚀
 
 
 
