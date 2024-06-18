@@ -10,7 +10,9 @@
 
 ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM) benchmark for LLMs, containing 2,860 testing samples involving diverse real-world social scenarios.
 
-The inventory of ToMBench can be found in `ToMBench_release_v1_0618.xlsx`.
+The inventory of ToMBench can be found in `ToMBench_release_v1_0618.xlsx`. Evaluation prompts can be found in Table 20 of our paper.
+
+
 
 ## Important Notice ⚠️
 Before using ToMBench, please note:
