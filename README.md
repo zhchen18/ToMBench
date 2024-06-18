@@ -1,12 +1,13 @@
 # ToMBench (ACL 2024) Official Repository
 
-Hola! Welcome to the official repository for **ToMBench**! 🎉
+### Hola! Welcome to the official repository for **ToMBench**! 🎉
 
 <div style="text-align: center;">
   <img src="figures/logo.png" alt="logo" width="500">
 </div>
 
 ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM) benchmark for LLMs, containing 2,860 testing samples involving diverse real-world social scenarios.
+
 The inventory of ToMBench can be found in `ToMBench_release_v1_0618.xlsx`.
 
 ## Important Notice ⚠️
