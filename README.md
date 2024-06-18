@@ -100,7 +100,7 @@ This category involves understanding that communication can convey meanings beyo
 5. **Humor:** Understanding lies told as jokes.
 6. **Faux Pas:** Recognizing social faux pas.
 
-## Mapping between 8 tasks and 31 ATOMS abilitie
+## Mapping between 8 tasks and 31 ATOMS abilities
 <div style="text-align: center;">
   <img src="figures/atoms.png" alt="atoms"  height: auto;>
 </div>
