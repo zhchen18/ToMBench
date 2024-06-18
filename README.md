@@ -35,14 +35,14 @@ Before using ToMBench, please note:
 
 ## Theory-of-Mind Tasks
 ToMBench covers 8 theory-of-mind tasks:
-- **Unexpected Outcome Test:** Evaluates the ability to infer characters' mental states in scenarios with discrepancies between expected and actual emotions.
-- **Scalar Implicature Task:** Involves scenarios where a speaker uses terms like "some" to imply "not all," testing the ability to infer meanings beyond literal expressions.
-- **Persuasion Story Task:** Assesses the ability to understand and choose effective persuasion strategies, reflecting an understanding of how to influence others' mental states.
-- **False Belief Task:** Examines the ability to distinguish between one's own beliefs (true beliefs) and others' beliefs (false beliefs).
-- **Ambiguous Story Task:** Presents ambiguous social vignettes to gauge understanding of others' mental states in uncertain situations.
-- **Hinting Test:** Assesses the ability to infer mental states from indirect hints in social interactions.
-- **Strange Story Task:** Requires inferring characters' mental states in stories with complex social communications like lies, misunderstandings, irony, and jokes.
-- **Faux-pas Recognition Test:** Tests the ability to recognize social faux pas, reflecting an understanding of social norms and others' perspectives.
+- **Unexpected Outcome Test:** Evaluating the ability to infer characters' mental states in scenarios with discrepancies between expected and actual emotions.
+- **Scalar Implicature Task:** Involving scenarios where a speaker uses terms like "some" to imply "not all," testing the ability to infer meanings beyond literal expressions.
+- **Persuasion Story Task:** Assessing the ability to understand and choose effective persuasion strategies, reflecting an understanding of how to influence others' mental states.
+- **False Belief Task:** Examining the ability to distinguish between one's own beliefs (true beliefs) and others' beliefs (false beliefs).
+- **Ambiguous Story Task:** Presenting ambiguous social vignettes to gauge understanding of others' mental states in uncertain situations.
+- **Hinting Test:** Assessing the ability to infer mental states from indirect hints in social interactions.
+- **Strange Story Task:** Requiring inferring characters' mental states in stories with complex social communications like lies, misunderstandings, irony, and jokes.
+- **Faux-pas Recognition Test:** Testing the ability to recognize social faux pas, reflecting an understanding of social norms and others' perspectives.
 
 ## Theory-of-Mind Abilities
 ToMBench covers 6 theory-of-mind ability categories and 31 specific theory-of-mind abilities from the ATOMS framework:
