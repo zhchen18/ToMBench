@@ -14,6 +14,8 @@ ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM)
 
 ✅ Evaluation prompts can be found in `Table 20` of our paper.
 
+⬜ We will update the official evaluation code soon!
+
 
 
 ## Important Notice ⚠️
