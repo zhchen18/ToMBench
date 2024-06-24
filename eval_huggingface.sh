@@ -1,0 +1,9 @@
+python3 run_huggingface.py \
+    --task "" \
+    --model_name "" \
+    --api_base "" \
+    --api_key "" \
+    --language "zh" \
+    --cot True \
+    --try_times 5 \
+    --output_dir ./results \

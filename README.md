@@ -14,7 +14,7 @@ ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM)
 
 ✅ Evaluation prompts can be found in `Table 20` of our paper.
 
-⬜ We will update the official evaluation code soon!
+✅ We have updated the official evaluation code in this repository!
 
 
 
@@ -120,16 +120,10 @@ This category involves understanding that communication can convey meanings beyo
 ### Enjoy using ToMBench and advancing your research in Theory of Mind! 🚀
 
 
-
-
-
-
-
-
 ## Citation
 If you find our work useful, please cite our paper.
 
-  
+
 ```
 @misc{chen2024tombench,
       title={ToMBench: Benchmarking Theory of Mind in Large Language Models}, 
