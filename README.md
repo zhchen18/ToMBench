@@ -16,7 +16,7 @@ ToMBench is a systematic, automated, and original bilingual Theory of Mind (ToM)
 
 ✅ We have updated the official evaluation code in this repository!
 
-✅ We have updated the jsonl version of ToMBench in the './data' folder!
+✅ We have updated the jsonl version of ToMBench in the `./data` folder!
 
 
 
