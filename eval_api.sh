@@ -1,0 +1,9 @@
+python3 run_api.py \
+    --task "" \
+    --model_name gpt-4-1106-preview \
+    --api_base "" \
+    --api_key "" \
+    --language "zh" \
+    --cot True \
+    --try_times 5 \
+    --output_path ./results \
